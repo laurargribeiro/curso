@@ -1,1 +1,2 @@
-console.log ('laura ribeiro')
+let nome= 'Laura Ribeiro'
+console.log (`Meu nome é ${nome}`)
